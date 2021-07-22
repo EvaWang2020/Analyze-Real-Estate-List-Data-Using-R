@@ -2,6 +2,6 @@ This expo demonstrates how to use R to analyze real-life data. Some columns of t
 
 Repo docuements:
 - RealEsateListAnalysis.ipynb
-  - A Juypter file including the analysis 
+  - A Juypter file including the analysis using R
 - Risk of average and generalization.pdf
   - A short article about the risk of average and risk of generalization in statistics 
