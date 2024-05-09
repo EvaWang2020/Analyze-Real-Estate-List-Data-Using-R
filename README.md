@@ -6,5 +6,5 @@ Correlation analysis is a fundamental aspect of data analytics. This expo also i
 
 Repository documents include:
 
-RealEsateListAnalysis.ipynb:  It is a Jupyternotebook containing R-based analysis.
-Risk of Average and Generalization.pdf: It is a short article discussing the statistical risks associated with averages and generalizations.
+1) RealEsateListAnalysis.ipynb:  It is a Jupyternotebook containing R-based analysis.
+2) Risk of Average and Generalization.pdf: It is a short article discussing the statistical risks associated with averages and generalizations.
