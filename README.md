@@ -1,8 +1,10 @@
-This expo demonstrates how to use R to analyze real estate data, which was collected by myself. To see how I scraped the data and implemented the ETL, you can refer to this repo (https://github.com/EvaWang2020/Real-Estate-List-Scrape-Clean-Transform-Load). 
-The dataset has null and infinite values, which are often the biggest challenges in data analytics. The repo explains how to use the filter or ignore function to address them. Correlation analysis is common in data analytics. This expo introduces the correlation matrix to analyze the correlation of multiple variables in one batch.
+This expo showcases the utilization of R for analyzing real estate data, meticulously collected by the author. For insights into the data scraping and ETL implementation process, refer to the corresponding repository (https://github.com/EvaWang2020/Real-Estate-List-Scrape-Clean-Transform-Load).
 
-Repo documents:
-- RealEsateListAnalysis.ipynb
-  - A Juypter file including the analysis using R
-- Risk of average and generalization.pdf
-  - A short article about the risk of average and risk of generalization in statistics 
+The dataset under analysis presents common yet significant challenges in data analytics, including null and infinite values. The repository adopts techniques such as filtering or ignoring functions to address these challenges.
+
+Correlation analysis is a fundamental aspect of data analytics. This expo also introduces the correlation matrix as a tool to analyze the relationships between multiple variables concurrently.
+
+Repository documents include:
+
+RealEsateListAnalysis.ipynb:  It is a Jupyternotebook containing R-based analysis.
+Risk of Average and Generalization.pdf: It is a short article discussing the statistical risks associated with averages and generalizations.
